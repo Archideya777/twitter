@@ -1,0 +1,9 @@
+.bookmarks {
+  height: 100vh;
+  width: 800px;
+  background-color: rgb(212, 175, 221);
+}
+.bookmarks-title {
+  padding-top: 300px;
+  margin-left: 250px;
+}

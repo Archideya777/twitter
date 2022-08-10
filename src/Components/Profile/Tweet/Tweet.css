@@ -1,0 +1,19 @@
+.tweet {
+  width: 700px;
+  height: 60vh;
+  background-color: rgb(55, 194, 194);
+  margin-top: 10px;
+}
+.tweet-title:hover {
+  cursor: pointer;
+}
+.tweet-title {
+  padding-top: 180px;
+  margin-left: 250px;
+}
+.media {
+  background-color: lightskyblue;
+}
+.likes {
+  background-color: chartreuse;
+}

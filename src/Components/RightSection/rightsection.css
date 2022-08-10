@@ -1,0 +1,59 @@
+.input {
+  background: #eff3f4;
+  border-radius: 31px;
+  padding: 16px 140px 16px 54px;
+  border: none;
+}
+.right-section {
+  width: 450px;
+  padding: 20px;
+  height: 100vh;
+  border-left: 1px solid #d8d8d8;
+}
+.search {
+  position: absolute;
+  top: 35px;
+  right: 385px;
+}
+.imgs {
+  margin-top: 10px;
+}
+.follows,
+.trend {
+  width: 380px;
+  margin-top: 20px;
+  background: #f7f9f9;
+  border-radius: 10px;
+  padding: 20px 15px;
+}
+.follows-text {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+.show {
+  font-size: 18px;
+  line-height: 100%;
+  color: #1da1f2;
+  text-decoration: none;
+}
+.trend-body_left__first {
+  font-size: 16px;
+  line-height: 21px;
+  color: #393b41;
+  opacity: 0.6;
+  margin: 0;
+}
+.trend-body_left-middle {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  color: #000000;
+  margin: 2px 0;
+}
+.info {
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #536471;
+}

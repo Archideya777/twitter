@@ -1,0 +1,9 @@
+.listsection {
+  height: 100vh;
+  width: 800px;
+  background-color: rgb(149, 161, 241);
+}
+.listsection-title {
+  padding-top: 300px;
+  margin-left: 250px;
+}

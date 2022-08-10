@@ -1,0 +1,10 @@
+.explore {
+  width: 800px;
+  height: 100vh;
+  background-color: rgb(194, 235, 235);
+}
+.explore-item {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 300px;
+}

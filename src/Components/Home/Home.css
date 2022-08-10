@@ -1,0 +1,46 @@
+.home-page {
+  width: 800px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+.home-page-header {
+  padding: 20px;
+  border-bottom: 1px solid #d8d8d8;
+}
+.svg-img {
+  margin-left: 10px;
+}
+.home-page_btn {
+  padding: 15px 30px;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 100%;
+  color: #ffffff;
+  border: none;
+  background: #1da1f2;
+  opacity: 0.4;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08);
+  border-radius: 120px;
+}
+.home-page_input {
+  border: none;
+  margin-left: 25px;
+}
+.input-sec {
+  border-bottom: 1px solid #d8d8d8;
+  padding: 15px 20px;
+}
+.profile-img {
+  margin-right: 15px;
+  margin-top: 55px;
+}
+.svgs {
+  margin: 25px;
+}
+.svg-img:hover {
+  cursor: pointer;
+}
+.home-page_btn {
+  margin-left: 300px;
+  margin-top: 45px;
+}

@@ -1,0 +1,71 @@
+.profile {
+  width: 800px;
+  margin: 0 auto;
+}
+.profile-header_subscribe {
+  margin: 0;
+}
+.profile-header {
+  padding: 20px;
+}
+.profile-header_name {
+  margin: 0;
+}
+.profile-img {
+  margin-top: -80px;
+  margin-left: 25px;
+}
+.edit-btn {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 10px 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 25px;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+.user-mail {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 15px 0;
+}
+.blue {
+  color: #1da1f2;
+}
+.user-bio {
+  font-size: 14px;
+  margin-left: 3px;
+}
+.svg {
+  margin-right: 8px;
+}
+.follow {
+  font-size: 18px;
+  line-height: 24px;
+  color: #00000099;
+  margin-right: 30px;
+  margin-top: 25px;
+}
+.follow-num {
+  font-weight: 700;
+  color: black;
+}
+.tweet-lists {
+  margin: 0;
+  width: 700px;
+  margin-top: 15px;
+}
+.out-item {
+  font-size: 18px;
+  line-height: 24px;
+  color: black;
+  text-decoration: none;
+}
+.tweet-main {
+  padding-bottom: 40px;
+}
+.out_active {
+  font-weight: 700;
+  border-bottom: 3px solid #1da1f2;
+}

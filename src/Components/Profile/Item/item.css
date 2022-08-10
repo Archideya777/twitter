@@ -1,0 +1,13 @@
+.item {
+  width: 700px;
+  height: 60vh;
+  background-color: rgb(142, 179, 191);
+  margin-top: 10px;
+}
+.item:hover {
+  cursor: pointer;
+}
+.item-title {
+  padding-top: 180px;
+  margin-left: 250px;
+}
