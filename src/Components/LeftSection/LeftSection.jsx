@@ -10,7 +10,7 @@ function LeftSection() {
         <ul className="list">
           <li className="list-section">
             <img className="img-active" src="./img/home.svg" alt="" />
-            <NavLink to="/" className="items">
+            <NavLink to="/home" className="items">
               Home
             </NavLink>
           </li>
